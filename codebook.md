@@ -14,7 +14,7 @@ This code book summarizes the resulting data fields in tidy_data.csv
    laying
 
 ##Measurements
-Each measurements is an average based on subject and acitivity
+Each measurements is an averanage based on subject
 - tBodyAcc-mean-X
 - tBodyAcc-mean-Y
 - tBodyAcc-mean-Z

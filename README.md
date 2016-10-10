@@ -12,7 +12,6 @@ The script has only one function which is the run_analysis function which takes 
 If no filepaths are provided the run_analsysi function will assumpt the script is saved in side the UCI HAR Dataset folder by default.
 
 The following are steps performed in run_analysis function:
-
 1. Load activity_labels.txt, features.txt, X_test.txt, y_test.txt, X_train.txt, and y_train.txt.
 2. Combine the X_train.txt and y_train.txt to traindata dataframe
 3. Combine the X_test.txt and y_test.txt to testdata dataframe
